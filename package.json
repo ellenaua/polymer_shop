@@ -1,0 +1,21 @@
+{
+  "name": "shop",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "merge-stream": "^1.0.1",
+    "polymer-build": "^0.6.0",
+    "polyserve": "^0.15.0"
+  },
+  "engines": {
+    "node": "6.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellenaua/polymer_shop.git"
+  }
+}
